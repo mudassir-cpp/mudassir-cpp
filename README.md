@@ -57,12 +57,12 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=mudassir-92&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=mudassir-cpp&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
 
 <br/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir-92&theme=tokyonight&background=0d1117&ring=00f5ff&fire=00ff88&currStreakLabel=00f5ff&hide_border=true&dates=c8f0ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir-cpp&theme=tokyonight&background=0d1117&ring=00f5ff&fire=00ff88&currStreakLabel=00f5ff&hide_border=true&dates=c8f0ff" />
 
 <br/>
 
