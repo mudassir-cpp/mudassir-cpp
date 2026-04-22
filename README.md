@@ -66,6 +66,12 @@
 
 <br/>
 
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir-cpp&layout=compact&langs_count=10&theme=github_dark" />
+</p>
+
+
+
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=mudassir-cpp&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 <br/> -->
