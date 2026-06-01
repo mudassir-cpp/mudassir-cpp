@@ -62,27 +62,6 @@
 <br/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir-cpp&theme=tokyonight&background=0d1117&ring=00f5ff&fire=00ff88&currStreakLabel=00f5ff&hide_border=true&dates=c8f0ff" />
-
-<br/>
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir-cpp&layout=compact&langs_count=10&theme=github_dark" />
-</p>
-
-
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=mudassir-cpp&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-<br/> -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassir-cpp&theme=react-dark&bg_color=0d1117&color=00f5ff&line=00ff88&point=ffffff&area=true&hide_border=true" />
-
-<br/>
-
-
----
-
 ## ◈ DSA JOURNEY — 1000+ PROBLEMS SOLVED
 
 <div align="center">
