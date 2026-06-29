@@ -18,7 +18,7 @@
 | App                                 | Rating    | Downloads | Platform | Developer |
 | ----------------------------------- | --------- | --------- | -------- | --------- |
 | **Nova Solar Weather**           | ⭐ 5.0 (7) | 100+       | Android  | Mudassir  |
-| **Contestify – Contest Tracker** | ⭐ 5.0 (9)   | 50+       | Android  | Mudassir  |
+| **Contestify – Contest Tracker** | ⭐ 5.0 (9)   | 100+       | Android  | Mudassir  |
 
 </div>
 
